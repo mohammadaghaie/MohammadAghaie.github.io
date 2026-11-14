@@ -4,7 +4,7 @@ permalink: /contact/
 title: contact
 description: Questions about my work, collaborations, or seminar invitations are all welcome.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <style>
@@ -36,6 +36,9 @@ nav_order: 5
     <p><i class="fa-solid fa-building-columns"></i> University of Osaka<br><span style="margin-left: 1.4rem">Osaka, Japan</span></p>
     <p><i class="ai ai-orcid"></i> <a href="https://orcid.org/0009-0002-6945-2622">ORCID</a></p>
     <p><i class="ai ai-inspire"></i> <a href="https://inspirehep.net/authors/2688235">INSPIRE</a></p>
+    <p><i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=tKmk0DkAAAAJ">Google Scholar</a></p>
+    <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/mohammad-aghaie-070427233/">LinkedIn</a></p>
+    <p><i class="fa-solid fa-users"></i> <a href="https://www-het.phys.sci.osaka-u.ac.jp/mem-e.html">Osaka particle theory group</a></p>
   </div>
   <div>
     <div class="contact-sent" id="contact-sent">Thank you, your message has been sent. I'll get back to you soon.</div>

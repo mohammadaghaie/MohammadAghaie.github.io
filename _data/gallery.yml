@@ -1,0 +1,8 @@
+# Conference and seminar photos shown on the gallery page, newest first.
+# Put each image in assets/img/gallery/ and add an entry like this:
+#
+# - image: invisibles2025.jpg
+#   caption: Talk at Invisibles 2025
+#   place: CERN, Geneva
+#   date: Sep 2025
+photos: []

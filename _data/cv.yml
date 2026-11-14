@@ -9,6 +9,7 @@ cv:
     Experience:
       - company: University of Osaka
         position: Postdoctoral Researcher
+        url: https://www-het.phys.sci.osaka-u.ac.jp/mem-e.html
         location: Osaka, Japan
         start_date: 2025
         highlights:
@@ -22,8 +23,9 @@ cv:
           - "June 2026. Host: Dr. Shohei Okawa"
           - "Topic: minimal flavour violation and dark matter"
 
-      - company: IFIC
+      - company: IFIC (AHEP group)
         position: Visiting Researcher
+        url: https://www.astroparticles.es/former-at-academy/mohammad-aghaie/
         location: Valencia, Spain
         date: 2024-01-01
         highlights:
@@ -32,6 +34,7 @@ cv:
 
     Education:
       - institution: University of Pisa
+        url: https://phd2.df.unipi.it/en/students/profiles/?smid=2377
         location: Pisa, Italy
         area: Physics
         studyType: Ph.D.
