@@ -1,0 +1,128 @@
+# Talks shown on the talks page, newest first.
+# Fields: year, date, type, title, event, venue, domain (used for the venue icon),
+#         link (event page), slides (optional), upcoming (optional), abstract (optional)
+
+- year: 2026
+  date: 26 Nov
+  upcoming: true
+  type: Seminar
+  title: Anomaly-free axion-like particle in Nelson-Barr models
+  event: Particle Theory and Cosmology Group seminar
+  venue: Tohoku University, Sendai
+  domain: www.tohoku.ac.jp
+  link: http://www.tuhep.phys.tohoku.ac.jp/index-e.html
+  abstract: |
+    The strong CP problem is one of the long-standing puzzles of the Standard Model. The Nelson-Barr mechanism provides an attractive solution through spontaneous CP violation while keeping the QCD vacuum angle effectively zero. In this talk, I will discuss a remarkable low-energy consequence of this mechanism: the natural emergence of a light axion-like particle (ALP).
+
+    I will first briefly introduce the strong CP problem and the Nelson-Barr mechanism. I will then show how an ALP arises naturally in these models without requiring additional ingredients. Unlike the QCD axion, this ALP is anomaly-free, with highly suppressed couplings to photons and gluons. At the same time, it has flavor-violating couplings to Standard Model quarks, with a structure closely related to the CKM matrix. Rare meson decays can therefore provide an interesting probe of the underlying Nelson-Barr mechanism.
+
+    I will also discuss the cosmological properties of this ALP, considering both freeze-in and misalignment production, and study the constraints from precision flavor measurements, stellar cooling, and cosmological observations. In particular, I will emphasize how rare flavor-changing decays can probe the high-energy physics responsible for solving the strong CP problem. The combination of precision flavor experiments, astrophysical observations, and future cosmological and X-ray surveys may therefore provide a way to test the Nelson-Barr mechanism through its low-energy ALP signature.
+
+- year: 2026
+  date: 4 Nov
+  type: Seminar
+  title: Self-Interaction Bounds on Ultralight Dark Matter Couplings to Matter
+  event: APEC Seminar
+  venue: Kavli IPMU, University of Tokyo, Kashiwa
+  domain: www.ipmu.jp
+  link: https://research.ipmu.jp/seminar/?seminar_id=3662
+  abstract: |
+    Ultralight dark matter (ULDM) provides a compelling framework in which particle physics, astrophysics, and cosmology meet. In this talk, I will first briefly review the motivation for ULDM and some of its characteristic phenomenology, before focusing on bounds on ULDM self-interactions from cosmological and astrophysical observations.
+
+    I will argue that these bounds are remarkably stringent and, importantly, robust across different physical considerations. I will then explore a simple consequence that has received comparatively little attention. Couplings of ULDM to Standard Model particles generically radiatively induce self-interactions of the dark matter field. Consequently, observational limits on ULDM self-interactions can be translated into indirect constraints on its interactions with ordinary matter.
+
+    As a proof of principle, I will show how this connection leads to strong constraints on linear ULDM couplings to neutrinos, probing parameter space relevant for neutrino-oscillation searches, as well as on quadratic couplings to electrons and light quarks, where the resulting constraints can compete with or exceed those from equivalence-principle tests. I will also discuss the assumptions behind this argument, possible objections, including questions of radiative stability and naturalness, and the extent to which the resulting bounds can be evaded.
+
+    The aim of this talk is to highlight a potentially broader lesson: the extraordinary sensitivity of cosmology and astrophysics to ULDM self-interactions may provide a powerful and largely unexplored window onto its couplings to the Standard Model. I will conclude by discussing how far this idea can be extended and what other ULDM interactions might be meaningfully constrained along this direction.
+
+- year: 2026
+  date: 27 Oct
+  type: Webinar
+  title: Exploring the Challenges of Ultralight Scalar Dark Matter
+  event: HEPCO Group Weekly Seminar
+  venue: IPM, Tehran (online)
+  domain: www.ipm.ac.ir
+  link: https://ipm.ac.ir/event/11103/HEPCO%20Group%20Weekly%20Seminar?lang=en&type=2
+  abstract: |
+    Ultralight scalar dark matter (ULDM) has emerged as a compelling alternative to conventional cold dark matter, with distinctive phenomenology spanning particle physics, astrophysics, and cosmology. In this talk, I will first review the basic motivation for ULDM, its theoretical framework, and its current experimental and observational status. I will then present our recent work on the interplay between ULDM interactions with Standard Model particles and ULDM self-interactions.
+
+    ULDM couplings to matter fields and ULDM self-interactions are typically treated as independent probes. However, the ULDM–matter couplings inevitably induce self-interactions through quantum loop corrections. Consequently, astrophysical and cosmological bounds on ULDM self-interactions can be translated into robust constraints on its couplings to Standard Model particles. We show that these self-interaction bounds can place strong limits on linear ULDM couplings to neutrinos, excluding a large portion of the parameter space commonly considered in neutrino oscillation searches for ULDM. Furthermore, the same framework constrains quadratic ULDM couplings to electrons and light quarks, in some cases more stringently than current equivalence-principle tests. These results demonstrate that the remarkable sensitivity of the cosmic microwave background and large-scale structure to repulsive ULDM self-interactions provides powerful and complementary constraints on ULDM interactions with fundamental particles.
+
+- year: 2026
+  date: Jun
+  type: Invited talk
+  title: Phenomenology of anomaly-free axion-like particles
+  event: New Perspectives on Flavor and Symmetries in Particle Physics
+  venue: APCTP, Pohang
+  domain: www.apctp.org
+  link: https://indico.global/event/17512/
+
+- year: 2026
+  date: Feb
+  type: Seminar
+  title: Status of the strong CP problem
+  event: KEK weekly seminar
+  venue: KEK, Tsukuba
+  domain: www.kek.jp
+
+- year: 2025
+  date: Dec
+  type: Lightning talk
+  title: Axion dark matter from heavy quarks
+  event: Workshop for Tera-Scale Physics and Beyond
+  venue: University of Osaka
+  domain: www.osaka-u.ac.jp
+  link: https://indico.cern.ch/event/1566008/timetable/
+
+- year: 2025
+  date: Sep
+  type: Talk
+  title: Axion dark matter from heavy quarks
+  event: Light Dark World 2025
+  venue: IFT UAM/CSIC, Madrid
+  domain: www.ift.uam-csic.es
+  link: https://indico.ift.uam-csic.es/event/29/
+
+- year: 2025
+  date: 3 Sep
+  type: Talk & poster
+  title: Axion dark matter from heavy quarks
+  event: Invisibles25 Workshop
+  venue: CERN, Geneva
+  domain: home.cern
+  link: https://indico.cern.ch/event/1454720/contributions/
+
+- year: 2025
+  date: Aug
+  type: Talk
+  title: "Axions à la Carte: A Heavy Quark Recipe for Dark Matter"
+  event: New Ways to Discover Light New Physics
+  venue: MITP, Mainz
+  domain: www.mitp.uni-mainz.de
+  link: https://indico.mitp.uni-mainz.de/event/409/
+
+- year: 2024
+  date: Sep
+  type: Talk
+  title: Bounds on Ultralight Dark Matter from NANOGrav
+  event: DESY Theory Workshop 2024
+  venue: DESY, Hamburg
+  domain: www.desy.de
+
+- year: 2024
+  date: Jul
+  type: Seminar
+  title: Minimal Dark Matter and its Indirect Detection
+  event: IPM weekly seminar
+  venue: IPM, Tehran
+  domain: www.ipm.ac.ir
+
+- year: 2024
+  date: 22 Apr
+  type: Short talk
+  title: Hunting minimal dark matter quintuplet
+  event: New Physics Directions in the LHC era and beyond
+  venue: MPIK, Heidelberg
+  domain: www.mpi-hd.mpg.de
+  link: https://indico.cern.ch/event/1339497/timetable/
+  slides: https://indico.cern.ch/event/1339497/contributions/5801367/attachments/2842183/4968470/Hunting%20MDM%20--%20Mohammad%20Aghaie.pdf

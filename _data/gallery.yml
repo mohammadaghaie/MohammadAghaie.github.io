@@ -1,8 +1,22 @@
 # Conference and seminar photos shown on the gallery page, newest first.
-# Put each image in assets/img/gallery/ and add an entry like this:
-#
-# - image: invisibles2025.jpg
-#   caption: Talk at Invisibles 2025
-#   place: CERN, Geneva
-#   date: Sep 2025
-photos: []
+# Put each image in assets/img/gallery/ and add an entry with image, caption, place and date.
+photos:
+  - image: invisibles25_cern.jpg
+    caption: Invisibles25 Workshop
+    place: CERN, Geneva
+    date: Sep 2025
+
+  - image: ictp_summer_school_2023_a.jpg
+    caption: Summer School on Particle Physics, ICTP
+    place: Trieste, Italy
+    date: Jun 2023
+
+  - image: ictp_summer_school_2023_b.jpg
+    caption: Summer School on Particle Physics, ICTP
+    place: Trieste, Italy
+    date: Jun 2023
+
+  - image: ggi_school_2023.jpg
+    caption: GGI School 2023
+    place: Galileo Galilei Institute, Florence
+    date: 2023
