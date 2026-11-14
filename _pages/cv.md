@@ -9,8 +9,3 @@ description:
 toc:
   sidebar: left
 ---
-
-<style>
-  .card .list-group-item { list-style: none; }
-  .card ul.items { padding-left: 1.1rem; }
-</style>

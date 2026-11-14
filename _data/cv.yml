@@ -3,7 +3,9 @@ cv:
   label: Postdoctoral Researcher in Theoretical Physics
   email: aghaie.sci@osaka-u.ac.jp
   location: Osaka, Japan
-  summary: My research is driven by a simple question, where should we look for the first clues of physics beyond the Standard Model? I explore it across particle physics, cosmology and astrophysics, from dark matter and neutrinos to gravitational waves and astrophysical observations.
+  summary: >-
+    My research is driven by a simple question: where should we look for the first clues of physics beyond the Standard Model? I explore it across particle physics, cosmology and astrophysics, from dark matter and neutrinos to gravitational waves and astrophysical observations.
+    <style>.card ul.list-group > li.list-group-item { list-style: none; }</style>
 
   sections:
     Experience:
