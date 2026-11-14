@@ -20,3 +20,8 @@ photos:
     caption: GGI School 2023
     place: Galileo Galilei Institute, Florence
     date: 2023
+
+  - image: new_physics_directions_heidelberg_2024.jpg
+    caption: New Physics Directions in the LHC era and beyond
+    place: MPIK, Heidelberg
+    date: Apr 2024

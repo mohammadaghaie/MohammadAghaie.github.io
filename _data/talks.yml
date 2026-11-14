@@ -1,5 +1,6 @@
 # Talks shown on the talks page, newest first.
 # Fields: year, date, type, title, event, venue, domain (used for the venue icon),
+#         logo (optional, file in assets/img/logos/; otherwise the venue's site icon is used),
 #         link (event page), slides (optional), upcoming (optional), abstract (optional)
 
 - year: 2026
@@ -42,6 +43,7 @@
   event: HEPCO Group Weekly Seminar
   venue: IPM, Tehran (online)
   domain: www.ipm.ac.ir
+  logo: ipm.jpg
   link: https://ipm.ac.ir/event/11103/HEPCO%20Group%20Weekly%20Seminar?lang=en&type=2
   abstract: |
     Ultralight scalar dark matter (ULDM) has emerged as a compelling alternative to conventional cold dark matter, with distinctive phenomenology spanning particle physics, astrophysics, and cosmology. In this talk, I will first review the basic motivation for ULDM, its theoretical framework, and its current experimental and observational status. I will then present our recent work on the interplay between ULDM interactions with Standard Model particles and ULDM self-interactions.
@@ -55,6 +57,7 @@
   event: New Perspectives on Flavor and Symmetries in Particle Physics
   venue: APCTP, Pohang
   domain: www.apctp.org
+  logo: apctp.jpg
   link: https://indico.global/event/17512/
 
 - year: 2026
@@ -99,6 +102,7 @@
   event: New Ways to Discover Light New Physics
   venue: MITP, Mainz
   domain: www.mitp.uni-mainz.de
+  logo: mitp.jpg
   link: https://indico.mitp.uni-mainz.de/event/409/
 
 - year: 2024
@@ -108,6 +112,7 @@
   event: DESY Theory Workshop 2024
   venue: DESY, Hamburg
   domain: www.desy.de
+  logo: desy.jpg
 
 - year: 2024
   date: Jul
@@ -116,6 +121,7 @@
   event: IPM weekly seminar
   venue: IPM, Tehran
   domain: www.ipm.ac.ir
+  logo: ipm.jpg
 
 - year: 2024
   date: 22 Apr
@@ -124,5 +130,6 @@
   event: New Physics Directions in the LHC era and beyond
   venue: MPIK, Heidelberg
   domain: www.mpi-hd.mpg.de
+  logo: mpik.jpg
   link: https://indico.cern.ch/event/1339497/timetable/
   slides: https://indico.cern.ch/event/1339497/contributions/5801367/attachments/2842183/4968470/Hunting%20MDM%20--%20Mohammad%20Aghaie.pdf

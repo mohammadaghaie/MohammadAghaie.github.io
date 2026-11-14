@@ -15,6 +15,7 @@ nav_order: 3
   .talk-logo { flex: 0 0 56px; height: 56px; border-radius: 12px; background: #fff; display: flex;
     align-items: center; justify-content: center; box-shadow: 0 1px 4px rgba(0,0,0,0.15); overflow: hidden; }
   .talk-logo img { width: 36px; height: 36px; object-fit: contain; }
+  .talk-logo img[src*='/logos/'] { width: 52px; height: 52px; }
   .talk-body { flex: 1; min-width: 0; }
   .talk-meta { font-size: 0.85rem; color: var(--global-text-color-light); display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
   .talk-tag { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
@@ -37,7 +38,7 @@ nav_order: 3
 {% endif %}
 <div class="talk">
 <a class="talk-logo" href="{% if t.link %}{{ t.link }}{% else %}https://{{ t.domain }}{% endif %}" title="{{ t.venue }}">
-<img src="https://www.google.com/s2/favicons?domain={{ t.domain }}&sz=128" alt="{{ t.venue }}" loading="lazy">
+<img src="{% if t.logo %}{{ '/assets/img/logos/' | append: t.logo | relative_url }}{% else %}https://www.google.com/s2/favicons?domain={{ t.domain }}&sz=128{% endif %}" alt="{{ t.venue }}" loading="lazy">
 </a>
 <div class="talk-body">
 <div class="talk-meta">
