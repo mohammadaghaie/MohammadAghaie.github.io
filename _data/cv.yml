@@ -42,7 +42,7 @@ cv:
         end_date: 2025
         highlights:
           - "Supervisor: Prof. Paolo Panci"
-          - "Thesis: Signals from the Dark Sector"
+          - "Thesis: [Signals from the Dark Sector: A Phenomenological Study of ALPs, Ultralight Fields, and Minimal Dark Matter](https://etd.adm.unipi.it/t/etd-09172025-131512/)"
 
       - institution: University of Tehran
         location: Tehran, Iran
@@ -71,6 +71,7 @@ cv:
         awarder: SISSA
 
       - title: Conference grant for DarkCosmoGrav23
+        url: https://agenda.infn.it/event/33063/
         date: 2023-01-01
         awarder: University of Pisa
 
@@ -81,8 +82,8 @@ cv:
     Service:
       - bullet: "Seminar Organizer, University of Osaka (since September 2026)"
       - bullet: "Phenomenology Journal Club Organizer, University of Pisa (2024 and 2025)"
-      - bullet: "Organizer, DarkCosmoGrav23 (January 2023)"
-      - bullet: "Member, EuCAPT, the European Consortium for Astroparticle Theory (since 2021)"
+      - bullet: "Organizer, [DarkCosmoGrav23: New Frontiers in Particle Physics, Gravity and Cosmology](https://agenda.infn.it/event/33063/), Pisa (January 2023)"
+      - bullet: "Member, [EuCAPT](https://www.eucapt.org), the European Consortium for Astroparticle Theory (since 2021)"
 
     Academic Interests:
       - name: Research

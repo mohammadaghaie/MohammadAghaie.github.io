@@ -1,7 +1,8 @@
 # Talks shown on the talks page, newest first.
 # Fields: year, date, type, title, event, venue, domain (used for the venue icon),
 #         logo (optional, file in assets/img/logos/; otherwise the venue's site icon is used),
-#         link (event page), slides (optional), upcoming (optional), abstract (optional)
+#         link (event page), slides (optional), upcoming (optional), abstract (optional),
+#         abstract_url (optional: page where the official abstract is published)
 
 - year: 2026
   date: 26 Nov
@@ -51,7 +52,7 @@
     ULDM couplings to matter fields and ULDM self-interactions are typically treated as independent probes. However, the ULDM–matter couplings inevitably induce self-interactions through quantum loop corrections. Consequently, astrophysical and cosmological bounds on ULDM self-interactions can be translated into robust constraints on its couplings to Standard Model particles. We show that these self-interaction bounds can place strong limits on linear ULDM couplings to neutrinos, excluding a large portion of the parameter space commonly considered in neutrino oscillation searches for ULDM. Furthermore, the same framework constrains quadratic ULDM couplings to electrons and light quarks, in some cases more stringently than current equivalence-principle tests. These results demonstrate that the remarkable sensitivity of the cosmic microwave background and large-scale structure to repulsive ULDM self-interactions provides powerful and complementary constraints on ULDM interactions with fundamental particles.
 
 - year: 2026
-  date: Jun
+  date: 4–5 Jun
   type: Invited talk
   title: Phenomenology of anomaly-free axion-like particles
   event: New Perspectives on Flavor and Symmetries in Particle Physics
@@ -64,10 +65,11 @@
   date: 17 Feb
   type: Talk
   title: "Minimal Dark Matter in the sky: updated Indirect Detection probes"
-  event: KEK Theory Meeting on Particle Physics Phenomenology (KEK-PH2026winter)
+  event: KEK Theory Meeting on Particle Physics Phenomenology (KEK-PH2026winter), Dark Matter session
   venue: KEK, Tsukuba
   domain: www.kek.jp
-  link: https://conference-indico.kek.jp/event/334/contributions/7599/
+  link: https://conference-indico.kek.jp/event/334/
+  abstract_url: https://conference-indico.kek.jp/event/334/contributions/7599/contribution.pdf
 
 - year: 2026
   date: Feb
@@ -78,7 +80,7 @@
   domain: www.kek.jp
 
 - year: 2025
-  date: Dec
+  date: 25–26 Dec
   type: Lightning talk
   title: Axion dark matter from heavy quarks
   event: Workshop for Tera-Scale Physics and Beyond
@@ -87,7 +89,7 @@
   link: https://indico.cern.ch/event/1566008/timetable/
 
 - year: 2025
-  date: Sep
+  date: 16–19 Sep
   type: Talk
   title: Axion dark matter from heavy quarks
   event: Light Dark World 2025
@@ -102,10 +104,11 @@
   event: Invisibles25 Workshop
   venue: CERN, Geneva
   domain: home.cern
-  link: https://indico.cern.ch/event/1454720/contributions/
+  link: https://indico.cern.ch/event/1454720/
+  abstract_url: https://indico.cern.ch/event/1454720/contributions/6565744/
 
 - year: 2025
-  date: Aug
+  date: 4–15 Aug
   type: Talk
   title: "Axions à la Carte: A Heavy Quark Recipe for Dark Matter"
   event: New Ways to Discover Light New Physics
@@ -115,12 +118,13 @@
   link: https://indico.mitp.uni-mainz.de/event/409/
 
 - year: 2024
-  date: Sep
+  date: 24–27 Sep
   type: Talk
   title: Bounds on Ultralight Dark Matter from NANOGrav
-  event: DESY Theory Workshop 2024
+  event: "DESY Theory Workshop 2024: Whispers from the Dark Universe"
   venue: DESY, Hamburg
   domain: www.desy.de
+  link: https://indico.desy.de/event/43923/overview
   logo: desy.jpg
 
 - year: 2024
@@ -140,5 +144,6 @@
   venue: MPIK, Heidelberg
   domain: www.mpi-hd.mpg.de
   logo: mpik.jpg
-  link: https://indico.cern.ch/event/1339497/timetable/
-  slides: https://indico.cern.ch/event/1339497/contributions/5801367/attachments/2842183/4968470/Hunting%20MDM%20--%20Mohammad%20Aghaie.pdf
+  link: https://indico.global/event/6518/
+  abstract_url: https://indico.global/event/6518/timetable/?view=standard_inline_minutes
+  slides: https://indico.global/event/6518/contributions/53208/attachments/26872/46537/Hunting%20MDM%20--%20Mohammad%20Aghaie.pdf

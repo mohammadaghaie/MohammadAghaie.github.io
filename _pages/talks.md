@@ -48,10 +48,11 @@ nav_order: 3
 </div>
 <div class="talk-title">{{ t.title }}</div>
 <div class="talk-event">{{ t.event }} · {{ t.venue }}</div>
-{% if t.link or t.slides %}
+{% if t.link or t.slides or t.abstract_url %}
 <div class="talk-links">
 {% if t.link %}<a href="{{ t.link }}"><i class="fa-solid fa-arrow-up-right-from-square"></i> Event page</a>{% endif %}
 {% if t.slides %}<a href="{{ t.slides }}"><i class="fa-solid fa-file-pdf"></i> Slides</a>{% endif %}
+{% if t.abstract_url and t.abstract == nil %}<a href="{{ t.abstract_url }}"><i class="fa-solid fa-align-left"></i> Abstract</a>{% endif %}
 </div>
 {% endif %}
 {% if t.abstract %}

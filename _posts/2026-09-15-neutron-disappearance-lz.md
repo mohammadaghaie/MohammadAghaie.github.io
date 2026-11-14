@@ -16,7 +16,9 @@ I remembered a paper I had read some time ago pointing out that bound neutrons i
 
 On Saturday night I emailed Alessandro Strumia with the idea and my calculations. We started exchanging calculations and drafts, and by Monday evening we had most of a paper. 🙂
 
-{% include figure.liquid loading="eager" path="assets/img/publication_preview/lz_event.png" class="img-fluid rounded z-depth-1" zoomable=true caption="A single nuclear recoil in a xenon detector, and a neutron that disappears." %}
+<div style="max-width: 520px; margin: 1.5rem auto;">
+{% include figure.liquid loading="eager" path="assets/img/publication_preview/lz_event.png" class="img-fluid rounded z-depth-1" zoomable=true caption="A bound neutron disappears inside a xenon nucleus; the daughter nucleus recoils and produces a scintillation signal." %}
+</div>
 
 I'm very happy to share the result:
 

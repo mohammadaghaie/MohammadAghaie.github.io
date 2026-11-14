@@ -10,7 +10,9 @@ thumbnail: assets/img/publication_preview/self_interaction.png
 
 Today I gave the APEC seminar at [Kavli IPMU](https://research.ipmu.jp/seminar/?seminar_id=3662) on our recent paper with S. Li, [_Self-Interaction Bounds on Ultralight Dark Matter Couplings to Matter_](https://arxiv.org/abs/2605.03477). Here is the idea in a nutshell.
 
+<div style="max-width: 520px; margin: 1.5rem auto;">
 {% include figure.liquid loading="eager" path="assets/img/publication_preview/self_interaction.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
 
 Ultralight dark matter (ULDM) is a framework where particle physics, astrophysics and cosmology meet. Its couplings to Standard Model particles and its self-interactions are usually treated as two separate things, each with its own searches and bounds.
 
