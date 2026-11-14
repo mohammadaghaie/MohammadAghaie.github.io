@@ -61,6 +61,15 @@
   link: https://indico.global/event/17512/
 
 - year: 2026
+  date: 17 Feb
+  type: Talk
+  title: "Minimal Dark Matter in the sky: updated Indirect Detection probes"
+  event: KEK Theory Meeting on Particle Physics Phenomenology (KEK-PH2026winter)
+  venue: KEK, Tsukuba
+  domain: www.kek.jp
+  link: https://conference-indico.kek.jp/event/334/contributions/7599/
+
+- year: 2026
   date: Feb
   type: Seminar
   title: Status of the strong CP problem
