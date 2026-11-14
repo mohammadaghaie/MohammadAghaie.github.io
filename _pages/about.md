@@ -43,12 +43,12 @@ latest_posts:
     transition: transform 0.2s ease, box-shadow 0.2s ease; }
   .welcome-enter:hover { transform: translateY(-2px); box-shadow: 0 12px 36px rgba(79, 195, 247, 0.55); }
   .welcome-links { margin-top: 2.2rem; display: flex; gap: 0.6rem; justify-content: center; flex-wrap: wrap; }
-  .welcome .welcome-links a { width: 82px; display: flex; flex-direction: column; align-items: center; gap: 0.45rem;
+  .welcome .welcome-links a { min-width: 70px; padding: 0 0.3rem; display: flex; flex-direction: column; align-items: center; gap: 0.45rem;
     color: rgba(238, 243, 251, 0.88) !important; text-decoration: none !important; transition: color 0.2s ease, transform 0.2s ease; }
   .welcome .welcome-links a i { font-size: 1.45rem; height: 1.6rem; line-height: 1.6rem; color: inherit !important; }
-  .welcome .welcome-links a span { font-size: 0.74rem; letter-spacing: 0.03em; line-height: 1.2; color: inherit !important; }
+  .welcome .welcome-links a span { font-size: 0.74rem; letter-spacing: 0.03em; line-height: 1.2; white-space: nowrap; color: inherit !important; }
   .welcome .welcome-links a:hover { color: #4fc3f7 !important; transform: translateY(-2px); }
-  @media (max-width: 576px) { .welcome h1 { font-size: 2rem; } .welcome-message { font-size: 1.02rem; } .welcome .welcome-links a { width: 72px; } .welcome-portrait { width: 130px; height: 130px; } }
+  @media (max-width: 576px) { .welcome h1 { font-size: 2rem; } .welcome-message { font-size: 1.02rem; } .welcome .welcome-links a { min-width: 60px; } .welcome-portrait { width: 130px; height: 130px; } }
 </style>
 <div id="welcome" class="welcome" role="dialog" aria-modal="true" aria-label="Welcome">
 <div class="welcome-card">
