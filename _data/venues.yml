@@ -1,9 +1,20 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Badges shown next to each paper on the publications page (keyed by the `abbr` field in papers.bib)
+"PRD":
+  url: https://journals.aps.org/prd
+  color: "#1f4e79"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PLB":
+  url: https://www.sciencedirect.com/journal/physics-letters-b
+  color: "#b5651d"
 
-"Vision":
-  color: "#009f36"
+"JCAP":
+  url: https://iopscience.iop.org/journal/1475-7516
+  color: "#2e7d32"
+
+"JHEP":
+  url: https://link.springer.com/journal/13130
+  color: "#6a1b9a"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

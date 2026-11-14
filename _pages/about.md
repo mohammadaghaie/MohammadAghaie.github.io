@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher · <a href='https://www.osaka-u.ac.jp/en'>University of Osaka</a>, Japan
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # add your photo to assets/img/ and put its file name here, e.g. prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Osaka</p>
+    <p>Osaka, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +21,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a theoretical physicist and a postdoctoral researcher at the University of Osaka, working with Ryosuke Sato.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is driven by a simple question: **where should we look for the first clues of physics beyond the Standard Model?** I explore this question across particle physics, cosmology and astrophysics, focusing on phenomena that may open windows onto new fundamental physics. From dark matter and neutrinos to gravitational waves and astrophysical observations, I study how signals, anomalies and precision measurements can reveal departures from the Standard Model and guide us toward the underlying theory.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to Osaka, I did my PhD at the University of Pisa with Paolo Panci, with a thesis on _Signals from the Dark Sector_. Before that, I studied gravitation and cosmology at the University of Tehran. I am currently the PI of a JSPS Grant-in-Aid for Research Activity Start-up on in-medium gauge responses of anomaly-free ALP dark matter.
+
+**Research interests:** dark matter · axions and ALPs · BSM phenomenology · indirect detection · cosmology · astroparticle theory.
+
+My full list of papers is on [INSPIRE](https://inspirehep.net/literature?q=a%20Aghaie%2C%20Mohammad&sort=mostrecent) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Aghaie%2C+Mohammad&order=-announced_date_first).
