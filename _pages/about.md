@@ -6,11 +6,8 @@ subtitle: Postdoctoral Researcher · <a href='https://www.osaka-u.ac.jp/en'>Univ
 
 profile:
   align: right
-  image: # add your photo to assets/img/ and put its file name here, e.g. prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>University of Osaka</p>
-    <p>Osaka, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,4 +29,4 @@ Before coming to Osaka, I did my PhD at the University of Pisa with Paolo Panci,
 
 **Research interests:** dark matter · axions and ALPs · BSM phenomenology · indirect detection · cosmology · astroparticle theory.
 
-My full list of papers is on [INSPIRE](https://inspirehep.net/literature?q=a%20Aghaie%2C%20Mohammad&sort=mostrecent) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Aghaie%2C+Mohammad&order=-announced_date_first).
+My full list of papers is on [INSPIRE](https://inspirehep.net/authors/2688235) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Aghaie%2C+Mohammad&order=-announced_date_first).
