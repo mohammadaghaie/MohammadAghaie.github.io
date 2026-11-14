@@ -700,3 +700,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+# Publish posts and news even if their date is slightly ahead of the build server's clock
+future: true
