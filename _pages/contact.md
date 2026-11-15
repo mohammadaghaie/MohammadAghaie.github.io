@@ -4,7 +4,7 @@ permalink: /contact/
 title: contact
 description: Questions about my work, collaborations, or seminar invitations are all welcome.
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 <style>

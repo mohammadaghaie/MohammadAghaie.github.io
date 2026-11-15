@@ -4,7 +4,7 @@ permalink: /gallery/
 title: gallery
 description: Moments from conferences, workshops and visits.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <style>
