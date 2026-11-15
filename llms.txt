@@ -1,0 +1,30 @@
+# Mohammad Aghaie
+
+> Mohammad Aghaie is a theoretical physicist and postdoctoral researcher in the particle physics theory group at the University of Osaka (Japan), working with Ryosuke Sato. His research covers dark matter, axions and axion-like particles (ALPs), ultralight dark matter, the strong CP problem and physics beyond the Standard Model. He received his PhD from the University of Pisa (Italy) with Paolo Panci.
+
+This is his personal academic website. Official profiles: [INSPIRE-HEP](https://inspirehep.net/authors/2688235), [ORCID](https://orcid.org/0009-0002-6945-2622), [Google Scholar](https://scholar.google.com/citations?user=tKmk0DkAAAAJ), [LinkedIn](https://www.linkedin.com/in/mohammad-aghaie-070427233/).
+
+## Main pages
+
+- [About](https://mohammadaghaie.github.io/): biography, research interests, latest news and publications
+- [Publications](https://mohammadaghaie.github.io/publications/): all papers with arXiv and journal links; each paper has its own page with the abstract
+- [Talks](https://mohammadaghaie.github.io/talks/): seminars and conference talks, with abstracts and event links
+- [News](https://mohammadaghaie.github.io/news/): papers, talks and other updates
+- [Blog](https://mohammadaghaie.github.io/blog/): notes on dark matter, axions and physics beyond the Standard Model, and an essay on AI and science
+- [CV](https://mohammadaghaie.github.io/cv/): education, positions, awards and service
+- [Contact](https://mohammadaghaie.github.io/contact/)
+
+## Papers
+
+- [Neutron disappearance and the LZ nuclear recoil event](https://mohammadaghaie.github.io/publications/neutron-disappearance-lz/) (with A. Strumia, 2026)
+- [Anomaly-free axion-like particle in Nelson–Barr models](https://mohammadaghaie.github.io/publications/nelson-barr-alp/) (with R. Masuda and R. Sato, 2026)
+- [Self-interaction bounds on ultralight dark matter couplings to matter](https://mohammadaghaie.github.io/publications/uldm-self-interactions/) (with S. Li, 2026)
+- [A particle on a ring, or: how I learned to stop worrying and love θ-vacua](https://mohammadaghaie.github.io/publications/theta-vacua/) (with R. Sato, JHEP 2026)
+- [Minimal Dark Matter in the sky: updated indirect detection probes](https://mohammadaghaie.github.io/publications/minimal-dark-matter/) (JCAP 2026)
+- [(H)ALPing the 511 keV line](https://mohammadaghaie.github.io/publications/halping-511-kev/) (Phys. Lett. B 2026)
+- [Axion dark matter from heavy quarks](https://mohammadaghaie.github.io/publications/axion-dark-matter-heavy-quarks/) (Phys. Lett. B 2024)
+- [Bounds on ultralight dark matter from NANOGrav](https://mohammadaghaie.github.io/publications/ultralight-dark-matter-nanograv/) (Phys. Rev. D 2024)
+
+## Essays
+
+- [The Cartographer and the Explorer: AI and the Future of Human Understanding](https://mohammadaghaie.github.io/blog/2026/cartographer-and-explorer/)
