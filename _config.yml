@@ -8,7 +8,7 @@ middle_name:
 last_name: Aghaie
 contact_note: >
   Email is the best way to reach me.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >- # folded into one line, with no trailing newline (keeps the structured data valid)
   Mohammad Aghaie, theoretical physicist at the University of Osaka, working on dark matter, axions and physics beyond the Standard Model.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
