@@ -6,6 +6,7 @@ description: Programmers felt it first, then mathematicians. Now it is our turn 
 tags: ai academia
 categories: essays
 thumbnail: assets/img/blog/interpolate_extrapolate.png
+og_image: /assets/img/blog/interpolate_extrapolate.png
 ---
 
 **_Abstract:_** _AI is changing one profession after another, and physics, and science more broadly, are next. In this essay I argue that today's AI is a superb cartographer but not yet an explorer, look at what this means for researchers, students, the control of scientific tools and society, and end with my main worry: that science may soon be produced faster than humans can understand it._

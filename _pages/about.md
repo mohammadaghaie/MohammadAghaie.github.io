@@ -107,3 +107,35 @@ My full list of papers is on [INSPIRE](https://inspirehep.net/authors/2688235), 
   });
 </script>
 <script src="{{ '/assets/js/paper-links.js' | relative_url }}"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": "https://mohammadaghaie.github.io/",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://mohammadaghaie.github.io/#person",
+    "name": "Mohammad Aghaie",
+    "alternateName": "M. Aghaie",
+    "url": "https://mohammadaghaie.github.io/",
+    "image": "https://mohammadaghaie.github.io/assets/img/prof_pic.jpg",
+    "jobTitle": "Postdoctoral researcher in theoretical physics",
+    "description": "Theoretical physicist at the University of Osaka working on dark matter, axions and axion-like particles, ultralight dark matter and physics beyond the Standard Model.",
+    "worksFor": { "@type": "CollegeOrUniversity", "name": "The University of Osaka", "url": "https://www-het.phys.sci.osaka-u.ac.jp/mem-e.html" },
+    "alumniOf": [
+      { "@type": "CollegeOrUniversity", "name": "University of Pisa" },
+      { "@type": "CollegeOrUniversity", "name": "University of Tehran" },
+      { "@type": "CollegeOrUniversity", "name": "University of Tabriz" }
+    ],
+    "knowsAbout": ["Dark matter", "Axions", "Axion-like particles", "Ultralight dark matter", "Strong CP problem", "Particle phenomenology", "Astroparticle physics", "Cosmology"],
+    "sameAs": [
+      "https://orcid.org/0009-0002-6945-2622",
+      "https://inspirehep.net/authors/2688235",
+      "https://scholar.google.com/citations?user=tKmk0DkAAAAJ",
+      "https://www.linkedin.com/in/mohammad-aghaie-070427233/",
+      "https://phd2.df.unipi.it/en/students/profiles/?smid=2377"
+    ]
+  }
+}
+</script>
