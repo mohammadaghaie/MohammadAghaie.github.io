@@ -97,23 +97,13 @@ Before coming to Osaka, I did my [PhD at the University of Pisa](https://phd2.df
 My full list of papers is on [INSPIRE](https://inspirehep.net/authors/2688235), [Google Scholar](https://scholar.google.com/citations?user=tKmk0DkAAAAJ) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Aghaie%2C+Mohammad&order=-announced_date_first).
 
 <script>
-  // Label each journal link with the journal name (PRD, PLB, ...) and place it right after the arXiv button.
+  // Section titles: "latest news" and "latest publications".
   document.addEventListener("DOMContentLoaded", function () {
-    // Section titles: "latest news" and "latest publications".
     document.querySelectorAll("h2 > a").forEach(function (a) {
       var t = a.textContent.trim();
       if (t === "news") a.textContent = "latest news";
       if (t === "selected publications") a.textContent = "latest publications";
     });
-    document.querySelectorAll("a.btn").forEach(function (b) {
-      if (b.textContent.trim() !== "HTML") return;
-      var row = b.closest(".row");
-      var badge = row && row.querySelector(".abbr abbr");
-      if (badge) b.textContent = badge.textContent.trim();
-      var arxiv = Array.from(b.parentNode.querySelectorAll("a.btn")).find(function (x) {
-        return x.textContent.trim() === "arXiv";
-      });
-      if (arxiv) arxiv.after(b);
-    });
   });
 </script>
+<script src="{{ '/assets/js/paper-links.js' | relative_url }}"></script>

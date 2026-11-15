@@ -19,18 +19,4 @@ nav_order: 2
 
 </div>
 
-<script>
-  // Label each journal link with the journal name (PRD, PLB, ...) and place it right after the arXiv button.
-  document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll("a.btn").forEach(function (b) {
-      if (b.textContent.trim() !== "HTML") return;
-      var row = b.closest(".row");
-      var badge = row && row.querySelector(".abbr abbr");
-      if (badge) b.textContent = badge.textContent.trim();
-      var arxiv = Array.from(b.parentNode.querySelectorAll("a.btn")).find(function (x) {
-        return x.textContent.trim() === "arXiv";
-      });
-      if (arxiv) arxiv.after(b);
-    });
-  });
-</script>
+<script src="{{ '/assets/js/paper-links.js' | relative_url }}"></script>
