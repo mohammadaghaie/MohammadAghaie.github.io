@@ -9,18 +9,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # shows the papers marked selected={true}: keep this to the 5 most recent
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: false # show every news item, so the PhD defense always stays visible
-  limit: # leave blank to include all the news in the `_news` folder
+  scrollable: false
+  limit: 5 # the 5 most recent news items; all of them stay on /news/
 
 latest_posts:
   enabled: true
-  scrollable: true
-  limit: 3
+  scrollable: false
+  limit: 5
 ---
 
 <style>
@@ -99,6 +99,12 @@ My full list of papers is on [INSPIRE](https://inspirehep.net/authors/2688235), 
 <script>
   // Label each journal link with the journal name (PRD, PLB, ...) and place it right after the arXiv button.
   document.addEventListener("DOMContentLoaded", function () {
+    // Section titles: "latest news" and "latest publications".
+    document.querySelectorAll("h2 > a").forEach(function (a) {
+      var t = a.textContent.trim();
+      if (t === "news") a.textContent = "latest news";
+      if (t === "selected publications") a.textContent = "latest publications";
+    });
     document.querySelectorAll("a.btn").forEach(function (b) {
       if (b.textContent.trim() !== "HTML") return;
       var row = b.closest(".row");
