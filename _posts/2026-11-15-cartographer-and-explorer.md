@@ -8,11 +8,13 @@ categories: essays
 thumbnail: assets/img/blog/interpolate_extrapolate.png
 ---
 
+**_Abstract:_** _AI is changing one profession after another, and physics, and science more broadly, are next. In this essay I argue that today's AI is a superb cartographer but not yet an explorer, look at what this means for researchers, students, the control of scientific tools and society, and end with my main worry: that science may soon be produced faster than humans can understand it._
+
 Every revolution has a moment when it stops happening to other people. With AI, that moment is moving through the professions one by one, and it is moving fast.
 
 Programmers felt it first. Within a few years, much of the everyday work of writing code could be handed to a machine.
 
-Mathematicians came next, and for them it arrived suddenly. On 8 September 2026, OpenAI announced that about 10,000 AI agents, running on an internal model not available to the public, had worked for 88 hours and found a finite-time singularity in the three-dimensional Navier–Stokes equations: a “blow-up” for the forced version of one of the Clay Millennium Prize Problems [<a href="#ref-1">1</a>, <a href="#ref-2">2</a>]. A second model formalized the proof in the Lean proof assistant in another 17 hours [<a href="#ref-2">2</a>]. The result came wrapped in controversy. It rested heavily on a strategy developed by Diego Córdoba and Luis Martínez-Zoroa, a competing human–AI team disputed the credit, and independent researchers found mismatches between the written proof and its Lean code [<a href="#ref-2">2</a>, <a href="#ref-3">3</a>]. The unforced problem, the version many mathematicians consider the real question, is still open [<a href="#ref-4">4</a>].
+Mathematicians came next, and for them it arrived suddenly. On 8 September 2026, OpenAI announced that about 10,000 AI agents had worked for 88 hours and found a “blow-up” in the forced version of the Navier–Stokes problem, one of the Clay Millennium Prize Problems [<a href="#ref-1">1</a>, <a href="#ref-2">2</a>]. The result came wrapped in controversy. It rested heavily on a strategy developed by Diego Córdoba and Luis Martínez-Zoroa, a competing human–AI team disputed the credit, and independent researchers questioned the formal proof [<a href="#ref-2">2</a>, <a href="#ref-3">3</a>]. The unforced problem is still open [<a href="#ref-4">4</a>].
 
 Less than a month later, on 6 October, OpenAI published more than 700 AI-generated manuscripts in a single day: 722 manuscripts in 372 families of results, claiming solutions to hundreds of open problems [<a href="#ref-5">5</a>, <a href="#ref-6">6</a>]. They were released on GitHub, without author names and without failure rates, and three had to be withdrawn within days because of an error [<a href="#ref-6">6</a>, <a href="#ref-7">7</a>]. I find the manner of this release deeply troubling. Results that whole communities had worked towards for years were dropped on them overnight, with no one to present them, explain them, or answer questions. The Association for Human Mathematics called the release “a demonstration of power” rather than scholarship and asked mathematicians to stop cooperating with the company [<a href="#ref-8">8</a>]. A Fields medallist said he was “paralysed”. Terence Tao saw clever new ideas in the proofs, but was frustrated that there was no one to discuss, present and teach the work [<a href="#ref-7">7</a>].
 
@@ -22,7 +24,7 @@ I want to write about what this looks like from my perspective as an academic, b
 
 ## Where AI stands: a cartographer, not yet an explorer
 
-Artificial intelligence has become an indispensable part of our lives. In academia it has already changed the way we work. Researchers use it to search the literature, summarize papers, write code, do calculations, analyze data and even help write papers. Tasks that once took hours or days can now sometimes be done in minutes.
+Artificial intelligence has become an indispensable part of our lives. In academia it has already changed the way we work. Researchers use it to search the literature, summarize papers, connect results from different sources, write code and analyze data. Given access to Python or Mathematica, it can carry out numerical computations, manipulate equations and reproduce complicated calculations, and it can even help write the paper. Tasks that once took hours or days can now sometimes be done in minutes.
 
 I use these tools myself and find them genuinely useful. For me, the biggest benefit is still their remarkable writing ability: even something as simple as checking the grammar of an email saves time and removes an unnecessary source of frustration. The editing of this article was done with the help of Claude. In research I am more careful. AI helps me review the literature more thoroughly, find papers I might have missed, sometimes double-check my calculations, and point me to papers where similar technical calculations have already been done. But every time I hand a task to AI, I stop practicing a skill that is useful in my job. So I try to ask myself how important that skill is.
 
@@ -30,13 +32,13 @@ Despite all these abilities, I feel that something fundamental is still missing.
 
 The simplest way I can say it: **AI is a superb cartographer, but not yet an explorer. It can interpolate, but it cannot yet extrapolate.**
 
-Interpolation means estimating something inside a region where we already have information. If we know the value of a function at several points, we can estimate its value in between. Extrapolation means going beyond that region and making a prediction where what we already know gives us little or no guidance.
+A cartographer can draw a remarkably detailed map of everything that has already been charted: every road, every coastline, every known path, in more detail than any single traveler could remember. But the map stops at the edge of what is known. An explorer is the one who walks off the edge of the map, into territory nobody has described, and comes back with something new.
 
 <div style="max-width: 520px; margin: 1.5rem auto;">
 {% include figure.liquid loading="eager" path="assets/img/blog/interpolate_extrapolate.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Interpolating between what we already know is one thing; extrapolating beyond it is another. Figure generated by Claude." %}
 </div>
 
-AI is already very good at interpolation. It can search the scientific literature, find the relevant results, connect information from different sources and reproduce complicated calculations. Give it access to Python or Mathematica, and it can do numerical computations, manipulate equations and write programs that would take a researcher a long time to develop.
+Everything I listed above happens inside the map. It is interpolation, and AI is already very good at it.
 
 These are important skills, and most scientific progress depends on working with existing knowledge. But the most important moments in science usually come from stepping outside what we already understand.
 
@@ -138,9 +140,7 @@ The danger is that governments and institutions reach the opposite conclusion, e
 
 All of this leads to the question I find most important: in the future, will humans still need to understand science, or only to use it?
 
-One way to picture the difference is to think of a cartographer and an explorer. A cartographer can draw a remarkably detailed map of everything that has already been charted. Every road, every coastline, every known path is there, in more detail than any single traveler could remember. But the map stops at the edge of what is known. An explorer is the one who walks off the edge of the map, into territory nobody has described, and comes back with something new.
-
-Today's AI is, in this sense, a superb cartographer. It has absorbed an enormous amount of what humanity already knows, and it can combine and connect that knowledge faster and more completely than any of us. What it is not yet is an explorer. It is very good at interpolating between things we already know. It is much less clear that it can extrapolate into the genuinely unknown, ask the question nobody has asked, or decide which direction is worth walking in.
+Let me return to the cartographer and the explorer. Today's AI can draw and extend the map faster and more completely than any of us. What is much less clear is whether it can walk off its edge: extrapolate into the genuinely unknown, ask the question nobody has asked, or decide which direction is worth walking in.
 
 It is possible, and some would say likely, that this will change. Imagine an AI that proposes a new physical theory, derives its predictions, and checks them against the data, all correctly, but in a form no human can follow. Would we accept it? Would we build on it? Would we still call it _our_ science?
 
