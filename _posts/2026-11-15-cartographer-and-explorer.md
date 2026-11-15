@@ -1,0 +1,173 @@
+---
+layout: post
+title: "The Cartographer and the Explorer: AI and the Future of Human Understanding"
+date: 2026-11-15 12:00:00+0900
+description: Programmers felt it first, then mathematicians. Now it is our turn as physicists. What AI changes for researchers, students, science and society.
+tags: ai academia
+categories: essays
+thumbnail: assets/img/blog/interpolate_extrapolate.png
+---
+
+Every revolution has a moment when it stops happening to other people. With AI, that moment is moving through the professions one by one, and it is moving fast.
+
+Programmers felt it first. Within a few years, much of the everyday work of writing code could be handed to a machine.
+
+Mathematicians came next, and for them it arrived suddenly. On 8 September 2026, OpenAI announced that about 10,000 AI agents, running on an internal model not available to the public, had worked for 88 hours and found a finite-time singularity in the three-dimensional Navier–Stokes equations: a “blow-up” for the forced version of one of the Clay Millennium Prize Problems [<a href="#ref-1">1</a>, <a href="#ref-2">2</a>]. A second model formalized the proof in the Lean proof assistant in another 17 hours [<a href="#ref-2">2</a>]. The result came wrapped in controversy. It rested heavily on a strategy developed by Diego Córdoba and Luis Martínez-Zoroa, a competing human–AI team disputed the credit, and independent researchers found mismatches between the written proof and its Lean code [<a href="#ref-2">2</a>, <a href="#ref-3">3</a>]. The unforced problem, the version many mathematicians consider the real question, is still open [<a href="#ref-4">4</a>].
+
+Less than a month later, on 6 October, OpenAI published more than 700 AI-generated manuscripts in a single day: 722 manuscripts in 372 families of results, claiming solutions to hundreds of open problems [<a href="#ref-5">5</a>, <a href="#ref-6">6</a>]. They were released on GitHub, without author names and without failure rates, and three had to be withdrawn within days because of an error [<a href="#ref-6">6</a>, <a href="#ref-7">7</a>]. I find the manner of this release deeply troubling. Results that whole communities had worked towards for years were dropped on them overnight, with no one to present them, explain them, or answer questions. The Association for Human Mathematics called the release “a demonstration of power” rather than scholarship and asked mathematicians to stop cooperating with the company [<a href="#ref-8">8</a>]. A Fields medallist said he was “paralysed”. Terence Tao saw clever new ideas in the proofs, but was frustrated that there was no one to discuss, present and teach the work [<a href="#ref-7">7</a>].
+
+Now it is our turn, as physicists. At the end of October, OpenAI claimed a proof that four-dimensional Yang–Mills theory, the mathematical backbone of the Standard Model, exists, without releasing the 1147-page proof [<a href="#ref-9">9</a>]. And sooner or later, the rest of society will feel the same thing.
+
+I want to write about what this looks like from inside academia, because I believe we are seeing early what many others will see later.
+
+## Where AI stands: a cartographer, not yet an explorer
+
+Artificial intelligence has become an indispensable part of our lives. In academia it has already changed the way we work. Researchers use it to search the literature, summarize papers, write code, do calculations, analyze data and even help write papers. Tasks that once took hours or days can now sometimes be done in minutes.
+
+I use these tools myself and find them genuinely useful. For me, the biggest benefit is still their remarkable writing ability: even something as simple as checking the grammar of an email saves time and removes an unnecessary source of frustration. The editing of this article was done with the help of Claude. In research I am more careful. AI helps me review the literature more thoroughly, find papers I might have missed, sometimes double-check my calculations, and point me to papers where similar technical calculations have already been done. But every time I hand a task to AI, I stop practicing a skill that is useful in my job. So I try to ask myself how important that skill is.
+
+Despite all these abilities, I feel that something fundamental is still missing. AI has absorbed an enormous part of humanity's knowledge, and much of its accumulated wisdom too. It can process vast amounts of information, recognize patterns and work skilfully with what is already known. But can it genuinely go beyond what is known? Can it produce the kind of original insight that changes how we understand the world?
+
+The simplest way I can say it: **AI is a superb cartographer, but not yet an explorer. It can interpolate, but it cannot yet extrapolate.**
+
+Interpolation means estimating something inside a region where we already have information. If we know the value of a function at several points, we can estimate its value in between. Extrapolation means going beyond that region and making a prediction where what we already know gives us little or no guidance.
+
+<div style="max-width: 520px; margin: 1.5rem auto;">
+{% include figure.liquid loading="eager" path="assets/img/blog/interpolate_extrapolate.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Interpolating between what we already know is one thing; extrapolating beyond it is another. Figure made with Claude (Anthropic)." %}
+</div>
+
+AI is already very good at interpolation. It can search the scientific literature, find the relevant results, connect information from different sources and reproduce complicated calculations. Give it access to Python or Mathematica, and it can do numerical computations, manipulate equations and write programs that would take a researcher a long time to develop.
+
+These are important skills, and most scientific progress depends on working with existing knowledge. But the most important moments in science usually come from stepping outside what we already understand.
+
+Take theoretical physics. A physicist may spend weeks or months solving equations, checking numerical results and comparing approximations. Much of this work is technical and repetitive. But the point of these calculations is not just to get a number. It is to understand something we did not understand before. A new theory, an unnoticed mechanism or an unexpected link between two phenomena does not come simply from calculating faster. It starts with finding a question worth asking.
+
+Of course, AI can suggest hypotheses and combine ideas in ways that have never appeared in the literature, and it is getting better at it. The harder question is whether it can tell on its own which unexplored directions are physically meaningful, which assumptions deserve to be challenged, and which seemingly unrelated observations point to a new principle. Producing something new is not the same as understanding why it matters.
+
+For now, AI is much better at moving through the territory we have already mapped than at deciding where we should go next.
+
+## The hopeful reading: an end to “publish or perish”?
+
+There is one consequence of this that I find genuinely hopeful.
+
+For years, academic research has suffered from the culture of _publish or perish_. Researchers are judged by their publication records, citation counts and other numbers. These measures are convenient for institutions, but they do not necessarily reflect the intellectual value of someone's work.
+
+The results are familiar. Young researchers are under enormous pressure to publish often, sometimes at the cost of pursuing hard questions that might take years to answer. Small, incremental results become more attractive than ambitious research, because they are easier to deliver before the next deadline. So scientists are officially asked to do original research, while the system rewards the number of papers more reliably than their originality.
+
+AI might break this. If machines can do the routine calculations, run the numerical analyses, check existing results, and in short automate most of what goes into an incremental paper, even writing the final version ready for submission, then simply being able to publish will slowly lose its value as a sign of scientific achievement.
+
+That would be a chance to rethink what we want from researchers. Instead of rewarding someone for writing ten papers, we could ask whether they found an important problem, brought a genuinely new perspective, or changed our understanding of a phenomenon. I would welcome that change. It would let scientists spend less time on incremental results and more time on fundamental questions.
+
+But this hopeful scenario assumes that our institutions respond wisely, and there is no guarantee they will. AI could just as easily flood us with low-value papers and make the publication race even worse.
+
+The technology itself does not decide which way we go. Our institutions do. And that is where my concerns begin.
+
+## The researcher: the hidden value of doing things the hard way
+
+I am not convinced that automating scientific calculations will automatically make us better scientists.
+
+The slow and often tedious process of research has always had a value beyond the result itself: it is often along the way that we find things we were not looking for.
+
+History offers many examples. Johannes Kepler spent years analyzing Tycho Brahe's astronomical observations. He started out trying to understand planetary motion within the ideas of his time, but he could not make the data fit circular orbits. That difficulty eventually forced him to give up the traditional picture and discover that planets move on ellipses.
+
+Max Planck was trying to understand the spectrum of blackbody radiation. In his attempt to reproduce the measurements, he introduced the idea that energy comes in discrete quanta. That idea became one of the foundations of modern physics and reached far beyond the problem he was originally trying to solve.
+
+These discoveries did not come from applying known techniques to known problems. They came from long engagement with a problem, including the failures, surprises and conceptual difficulties along the way.
+
+This is exactly what worries me about automation. Suppose a researcher asks AI to do a complicated calculation and gets the correct answer immediately. They save hours, perhaps weeks, and that is clearly a benefit. But what if, during those weeks of working by hand, they would have noticed an unexpected cancellation, questioned an approximation, or found a mathematical structure that suggested a completely different physical picture? The calculation was not just an obstacle between the researcher and the answer. It was also a chance to discover something.
+
+I am not arguing that we should keep tedious calculations just because earlier generations had to do them. That would be unreasonable. But we should recognize that automating a task can also remove chances for learning and discovery that used to come with doing it. The challenge is to keep those chances while still making use of the technology.
+
+## The student: what education is for
+
+The same problem is even sharper in education, and it may be the most immediate challenge AI brings.
+
+For centuries, education has been about acquiring knowledge and developing intellectual skills. We teach mathematics so students can solve problems, physics so they can understand nature, and programming so they can turn ideas into working procedures. But what happens when a machine can do many of these things faster, and sometimes more accurately, than the student?
+
+A student can now ask AI to solve a differential equation, derive an expression, write a numerical program, or explain the solution to almost any textbook problem. The line between knowing _how_ to solve a problem and knowing how to _get_ its solution is disappearing. So educators face a hard question: why should students spend years learning techniques that a machine can carry out in seconds?
+
+I think the answer is something we may have underestimated: the process of learning is not only a way of reaching an answer. It is how we learn to think.
+
+Take a physics student learning quantum mechanics. Solving the Schrödinger equation for a particular potential is not important because the student needs that particular wavefunction. The process teaches them how to set up a physical problem, recognize the relevant assumptions, choose the right mathematical methods, handle boundary conditions, and understand what a solution actually means. If AI hands over the final expression immediately, the student gets the right answer without learning any of this.
+
+The same is true for programming. A student who asks AI to write a simulation may end up with a working program without understanding numerical stability, discretization errors, or the physical approximations behind it. They have a result, but not the knowledge needed to judge whether to trust it.
+
+This is not a small problem. It goes to the heart of what education is for.
+
+I am not an expert, and I cannot solve this at a glance. From my own experience, I can only suggest that we change the way we motivate students. Instead of only asking them to solve problems, we should help them see why a problem is interesting in the first place. We should teach them to recognize important questions, appreciate the physical meaning of mathematical structures, and develop the curiosity to explore things that do not yet have answers. A student who understands why a problem matters may still want to learn how to solve it, even when a machine could give them the solution.
+
+## The field: who controls the tools of science?
+
+During a brainstorming session at Kavli IPMU, we came across an even more disturbing problem, one that concerns the organization of science itself.
+
+Science has traditionally been built around a fairly open international community. Researchers publish their findings, share their methods, discuss their failures and work with colleagues across institutions and borders. This openness is not perfect, but it is one of the defining features of modern science.
+
+AI changes this, because the most powerful tools are concentrated in the hands of a few private companies. Access to advanced models is not equal. Some researchers and institutions can use very capable systems, while others must rely on weaker alternatives. As these tools become more important for research, access to them may decide who can do competitive science. That would be a new kind of inequality in academia.
+
+Imagine two groups working on the same problem. One has an advanced AI system that can search the literature, do complicated calculations, analyze large datasets and explore possible directions. The other has only conventional computing resources. Even with equally talented people, the two groups would no longer be on equal footing.
+
+There is also a problem for international collaboration. If private companies control access to advanced models, researchers may not be free to share the same tools with their collaborators. A scientific project could come to depend on whether every member has access to the same systems.
+
+More fundamentally, we may be heading towards a world where private companies influence not only _how_ science is done, but _which_ science gets done. For more than a century, researchers have been largely free to choose their questions and their collaborators. Universities have provided a place to study subjects with no immediate commercial value.
+
+What happens if the most powerful scientific instruments are no longer available through universities or public institutions, but are controlled by a handful of companies? What happens if those companies decide who may use their models, on what terms, and for what purposes?
+
+I find this deeply concerning. We do not need to imagine conscious machines, or an AI that seeks power, to see the danger. The concentration of scientific capability in a few private organizations is already a serious problem. In that sense, the question of AI is also a question of power.
+
+In that session, almost everyone agreed on one thing: the academic community worldwide should develop a public, open-source AI. Even if it cannot compete with the industry giants, it would give researchers a reliable and free tool of their own.
+
+## Society: we may no longer know what to tell the next generation
+
+There is one more consequence that I find particularly unsettling, and it reaches far beyond academia.
+
+For generations, parents and teachers could give young people fairly simple advice: study mathematics, learn engineering, become a physicist, master a profession. No career was guaranteed, but it was reasonable to expect that what you learned would stay useful for decades.
+
+Today I am not sure we can give that advice with the same confidence. We do not know which professions will remain unchanged over the next twenty years. More surprisingly, we may not even know which technical skills will still be valuable in five. What programmers experienced first, and mathematicians after them, scientists are experiencing now, and everyone else will experience soon. The pace of change is hard to predict, and the institutions responsible for education and training are struggling to keep up.
+
+This raises a serious question about the future of universities. Some governments may conclude that if AI can do more and more intellectual work, society will need fewer highly educated people. Why train thousands of engineers, scientists or analysts if machines can do much of their work?
+
+I believe this would be a fundamental mistake. A few generations ago, basic education mainly meant learning to read, write and do simple arithmetic. As society became more technological, knowing how to use computers became essential. Today it is hard to take full part in society without that knowledge.
+
+The same will happen with AI. As machines become more capable, _more_ people will need the training to understand, supervise, evaluate and interpret what they produce. The ability to question a result, spot a wrong assumption, and tell a meaningful conclusion from a convincing but misleading one will matter more and more. AI should not make education less important. It should make it more important, and more widely available.
+
+The danger is that governments and institutions reach the opposite conclusion, especially if they focus on short-term economic efficiency rather than the long-term intellectual needs of society.
+
+## The central question: must humans understand?
+
+All of this leads to the question I find most important: in the future, will humans still need to understand science, or only to use it?
+
+One way to picture the difference is to think of a cartographer and an explorer. A cartographer can draw a remarkably detailed map of everything that has already been charted. Every road, every coastline, every known path is there, in more detail than any single traveler could remember. But the map stops at the edge of what is known. An explorer is the one who walks off the edge of the map, into territory nobody has described, and comes back with something new.
+
+Today's AI is, in this sense, a superb cartographer. It has absorbed an enormous amount of what humanity already knows, and it can combine and connect that knowledge faster and more completely than any of us. What it is not yet is an explorer. It is very good at interpolating between things we already know. It is much less clear that it can extrapolate into the genuinely unknown, ask the question nobody has asked, or decide which direction is worth walking in.
+
+It is possible, and some would say likely, that this will change. Imagine an AI that proposes a new physical theory, derives its predictions, and checks them against the data, all correctly, but in a form no human can follow. Would we accept it? Would we build on it? Would we still call it _our_ science?
+
+Some will argue that human understanding is simply a bottleneck: if a machine can find the right answer, why should it matter whether we understand it? I disagree. Science has never been only a list of correct answers. It is the way humanity makes sense of the world. Understanding is what lets us judge a result, see where it may fail, notice when it is being used badly, and decide what to do next. A civilisation that holds correct answers it cannot understand is not more knowledgeable. It is more dependent.
+
+## A revolution we must learn to govern
+
+I do not want to end on a pessimistic note. I use these tools myself, and I believe they can make science faster, more open and more exciting than it has ever been. But a technology this powerful does not arrive with its own rules. We have to write them.
+
+For science, that means a few simple things. Results produced with AI should be clear about how they were produced. Researchers should stay responsible for what they publish, whether or not a machine helped. Communities like mathematics should be consulted, not surprised, when a company decides to release hundreds of results into their field overnight. And we should build our own public, open tools, so that the instruments of discovery do not belong only to a few companies.
+
+For society, it means investing in education rather than cutting it. If machines take over more of the routine intellectual work, we need more people, not fewer, who can understand, question and guide what those machines do.
+
+The most important question may not be whether AI will one day become smarter than us. It may be whether we will remain wise enough to decide what to do with it.
+
+---
+
+## References
+
+1. <span id="ref-1"></span>OpenAI, "On the Navier–Stokes Millennium Prize Problem," 8 September 2026. [openai.com/index/navier-stokes-solution](https://openai.com/index/navier-stokes-solution/)
+2. <span id="ref-2"></span>K. Kakaes, "AI Has Solved One of Math's &#36;1 Million Millennium Prize Problems," _Quanta Magazine_, 8 September 2026. [quantamagazine.org](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/)
+3. <span id="ref-3"></span>A. Bastounis, L. Circelli, A. C. Hansen, "Navier–Stokes lost in translation," arXiv:2610.08144. [arxiv.org/abs/2610.08144](https://arxiv.org/abs/2610.08144)
+4. <span id="ref-4"></span>"The Positive Defect Problem…," arXiv:2609.23868. [arxiv.org/abs/2609.23868](https://arxiv.org/abs/2609.23868)
+5. <span id="ref-5"></span>OpenAI, "Sharing AI progress in mathematics," 6 October 2026. [openai.com/index/sharing-ai-progress-in-mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) · repository: [github.com/openai/math](https://github.com/openai/math)
+6. <span id="ref-6"></span>XenoSpectrum, report on the mathematicians' boycott of OpenAI's release. [xenospectrum.com](https://xenospectrum.com/en/openai-math-boycott-proof-understanding/)
+7. <span id="ref-7"></span>The Decoder, "How much beauty have we lost? Mathematicians react with shock and disgust as OpenAI bulldozes their field," 10 October 2026. [the-decoder.com](https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/)
+8. <span id="ref-8"></span>AHM statement on OpenAI's 6 October release of mathematical documents, posted on T. Tao's blog, 7 October 2026. [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/)
+9. <span id="ref-9"></span>_Science_, "AI rivals tackle one of physics' deepest mathematical challenges." [science.org](https://science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges)
+
+**Further reading.** "A severe misalignment of AI in mathematics," joint statement by 25 Fields medallists, T. Tao's blog, 11 September 2026. [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
+
+_Text edited and figure made with the help of Claude (Anthropic)._
