@@ -98,23 +98,25 @@ I am not an expert, and I cannot solve this at a glance. From my own experience,
 
 ## The field: who controls the tools of science?
 
-During a brainstorming session at Kavli IPMU, we came across an even more disturbing problem, one that concerns the organization of science itself.
+During a brainstorming session at Kavli IPMU, we came across the problem that worries me most of all. It is not about a single researcher or a single student. It is about who will own science itself.
 
-Science has traditionally been built around a fairly open international community. Researchers publish their findings, share their methods, discuss their failures and work with colleagues across institutions and borders. This openness is not perfect, but it is one of the defining features of modern science.
+Science has traditionally been built around a fairly open international community. Researchers publish their findings, share their methods, discuss their failures and work with colleagues across institutions and borders. Results are checked in public, by anyone who has the training to check them. This openness is not perfect, but it is one of the defining features of modern science, and much of the trust we place in science comes from it.
 
-AI changes this, because the most powerful tools are concentrated in the hands of a few private companies. Access to advanced models is not equal. Some researchers and institutions can use very capable systems, while others must rely on weaker alternatives. As these tools become more important for research, access to them may decide who can do competitive science. That would be a new kind of inequality in academia.
+AI changes this, because the most powerful tools are concentrated in the hands of a few private companies. Their best models are not public. They are trained on data that no one outside can inspect, with computing power that no university can afford, and they run behind closed doors. The Navier–Stokes result and the October release in mathematics both came from internal models that no outside researcher could use or examine [<a href="#ref-1">1</a>, <a href="#ref-5">5</a>]. The Yang–Mills claim came without its proof [<a href="#ref-9">9</a>]. We were shown the results, but not the instrument that produced them.
 
-Imagine two groups working on the same problem. One has an advanced AI system that can search the literature, do complicated calculations, analyze large datasets and explore possible directions. The other has only conventional computing resources. Even with equally talented people, the two groups would no longer be on equal footing.
+Access to these tools is also unequal. Some researchers and institutions can use very capable systems, while others must rely on weaker alternatives. Most disturbingly, it is the private company that decides who gets such a privilege. Imagine two groups working on the same problem. One has an advanced AI system that can search the literature, do complicated calculations, analyze large datasets and explore possible directions. The other has only conventional computing resources. Even with equally talented people, the two groups are no longer on equal footing. As these tools become more important for research, access to them may decide who can do competitive science at all. That would be a new kind of inequality: between countries, between institutions, and between rich and poor universities.
 
-There is also a problem for international collaboration. If private companies control access to advanced models, researchers may not be free to share the same tools with their collaborators. A scientific project could come to depend on whether every member has access to the same systems.
+There is also a problem for international collaboration. If private companies control access to advanced models, researchers may not be free to share the same tools with their collaborators. A scientific project could come to depend on whether every member has access to the same systems, and on the terms a company is willing to offer them.
 
-More fundamentally, we may be heading towards a world where private companies influence not only _how_ science is done, but _which_ science gets done. For more than a century, researchers have been largely free to choose their questions and their collaborators. Universities have provided a place to study subjects with no immediate commercial value.
+More fundamentally, private companies may come to decide not only _how_ science is done, but _which_ science gets done. A company decides which problems its models attack, which results are released and when, and on what terms the rest of us may use its tools. Those choices follow commercial and strategic interests, not the questions a scientific community would choose for itself. The events of this autumn showed it clearly: the timing was set by a company racing a competitor, and the mathematical community learned about results in its own field after the fact. For more than a century, researchers have been largely free to choose their questions and their collaborators, and universities have been a place to study subjects with no immediate commercial value. That freedom is not guaranteed in the world we are entering.
 
-What happens if the most powerful scientific instruments are no longer available through universities or public institutions, but are controlled by a handful of companies? What happens if those companies decide who may use their models, on what terms, and for what purposes?
+Let me say this directly: the agenda of universities and traditional academia is very different from the agenda of private AI companies. What drives a company is financial gain, and there, money speaks. A university exists, at least in principle, to understand the world and to pass that understanding on to the next generation, whether or not it ever pays. I do not want to pretend that academia is free of money. Funding, grants and prestige shape our choices too, more than we like to admit. But the contrast between the two agendas is still enormous, and it is very concerning that the tools which may soon decide the future of science are being built by organizations whose first question is not "what is true?" or "what is worth knowing?", but "what will be profitable?"
 
-I find this deeply concerning. We do not need to imagine conscious machines, or an AI that seeks power, to see the danger. The concentration of scientific capability in a few private organizations is already a serious problem. In that sense, the question of AI is also a question of power.
+Followed to its end, this road leads to a world I find frightening: a world of new empires, built not on territory but on intelligence, and governed by AI companies. In such a world, the most advanced science would be done in sealed cells inside a few companies, out of the reach of the public and out of the reach of most scientists. The rest of us would receive its results the way a customer receives a product, without the means to check how it was made, to reproduce it, or to ask a different question. Universities, which for centuries have been the public home of knowledge, would become customers too.
 
-In that session, almost everyone agreed on one thing: the academic community worldwide should develop a public, open-source AI. Even if it cannot compete with the industry giants, it would give researchers a reliable and free tool of their own.
+We do not need to imagine conscious machines, or an AI that seeks power, to see this danger. The concentration of scientific capability in a few private organizations is already happening. In that sense, the question of AI is also a question of power.
+
+In that session, almost everyone agreed on one thing: the academic community all over the world should develop its own public, open-source AI, collectively, across countries and institutions, in the same spirit in which physicists built CERN together because no single country could. Even if such a tool cannot compete with the giants of the industry, it would give researchers reliable and free tools of their own: tools that any scientist can inspect, that no company can switch off, and that keep at least part of the frontier of discovery in public hands.
 
 ## Society: we may no longer know what to tell the next generation
 
@@ -146,13 +148,28 @@ Some will argue that human understanding is simply a bottleneck: if a machine ca
 
 ## A revolution we must learn to govern
 
-I do not want to end on a pessimistic note. I use these tools myself, and I believe they can make science faster, more open and more exciting than it has ever been. But a technology this powerful does not arrive with its own rules. We have to write them.
+We are living through a revolution. Like every revolution, it will bring things we cannot yet imagine, good and bad. I use these tools myself, and I know how much they can give. But I cannot end this essay with reassurance, because I am not sure that reassurance is deserved.
 
-For science, that means a few simple things. Results produced with AI should be clear about how they were produced. Researchers should stay responsible for what they publish, whether or not a machine helped. Communities like mathematics should be consulted, not surprised, when a company decides to release hundreds of results into their field overnight. And we should build our own public, open tools, so that the instruments of discovery do not belong only to a few companies.
+Let me list what worries me:
 
-For society, it means investing in education rather than cutting it. If machines take over more of the routine intellectual work, we need more people, not fewer, who can understand, question and guide what those machines do.
+- that by automating the slow work of research, we lose the surprises along the way that have so often led to real discoveries;
+- that students get answers without learning how to think, and without the knowledge needed to judge whether to trust those answers;
+- that governments and universities respond by cutting education, at the very moment we need more of it;
+- that we no longer know what to tell the next generation to learn;
+- that the most powerful instruments of science end up owned by a few companies, new empires in which science is done in closed cells, out of the reach of the public;
+- and above all, that humans lose the ability to understand the science that is being produced.
 
-The most important question may not be whether AI will one day become smarter than us. It may be whether we will remain wise enough to decide what to do with it.
+This last point deserves the most attention. There is a threshold that we have not yet crossed, but are approaching fast: the point at which AI produces science and technology faster, and in a more complex form, than humans can follow. We can already see the first signs. The mathematical community is still trying to read and digest hundreds of manuscripts that were released in a single day [<a href="#ref-5">5</a>, <a href="#ref-7">7</a>], and checking even one of them carefully can take an expert weeks. Results are now being produced faster than people can understand them. If the same happens in physics, chemistry, biology and engineering, and at the current pace I believe it will, human scientists will slowly become irrelevant. Not because anyone forbids them to take part, but because they can no longer keep up. And a humanity that cannot understand the science and technology it depends on has already lost control of them.
+
+This is why we need to discuss this threshold now, before AI crosses it, and not after. Once AI is producing knowledge that no human can understand, it will be too late to ask whether that is what we wanted.
+
+What would it take? First, guardrails. A technology this powerful does not arrive with its own rules; we have to write them, as we did for medicine and for nuclear energy. Results produced with AI should be clear about how they were produced. Researchers should stay responsible for what they publish. Communities should be consulted, not surprised, when a company decides to release hundreds of results into their field overnight. And no result should be accepted as part of science until humans are able to check it and understand it.
+
+Second, pace. The progress of AI should be slowed down to a pace that matches the pace of humans: a pace at which we can read, check, teach and absorb what is produced, and at which our institutions can adapt. Speed is not progress if no one understands where we are going.
+
+Third, public tools. Academia all over the world should build its own AI together, so that the instruments of discovery do not belong only to a few companies. And fourth, education: if machines take over more of the routine intellectual work, we need more people, not fewer, who can understand, question and guide what those machines do.
+
+I am not optimistic that any of this will happen in time. The incentives point the other way. Companies race each other, governments race each other, and the pace is set by whoever moves fastest. The most important question may not be whether AI will one day become smarter than us. It may be whether we will remain wise enough to decide what to do with it. At the moment, I am not sure that we are.
 
 ---
 
