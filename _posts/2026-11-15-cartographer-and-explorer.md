@@ -18,7 +18,7 @@ Less than a month later, on 6 October, OpenAI published more than 700 AI-generat
 
 Now it is our turn, as physicists. At the end of October, OpenAI claimed a proof that four-dimensional Yang–Mills theory, the mathematical backbone of the Standard Model, exists, without releasing the 1147-page proof [<a href="#ref-9">9</a>]. And sooner or later, the rest of society will feel the same thing.
 
-I want to write about what this looks like from inside academia, because I believe we are seeing early what many others will see later.
+I want to write about what this looks like from my perspective as an academic, because I believe we are seeing early what many others will see later.
 
 ## Where AI stands: a cartographer, not yet an explorer
 
@@ -84,17 +84,17 @@ The same problem is even sharper in education, and it may be the most immediate 
 
 For centuries, education has been about acquiring knowledge and developing intellectual skills. We teach mathematics so students can solve problems, physics so they can understand nature, and programming so they can turn ideas into working procedures. But what happens when a machine can do many of these things faster, and sometimes more accurately, than the student?
 
-A student can now ask AI to solve a differential equation, derive an expression, write a numerical program, or explain the solution to almost any textbook problem. The line between knowing _how_ to solve a problem and knowing how to _get_ its solution is disappearing. So educators face a hard question: why should students spend years learning techniques that a machine can carry out in seconds?
+A student can now ask AI to solve a differential equation, derive an expression, write a numerical program, or explain the solution to almost any textbook problem. The line between knowing _how_ to solve a problem and knowing how to _get_ its solution is disappearing. So students may well ask: why should we spend years learning techniques that a machine can carry out in seconds?
 
-The answer is one every teacher already knows: the aim of solving a problem was never the solution itself. Solutions to textbook problems have always been easy to find, in the back of the book or from a classmate. We ask students to solve problems because working through them is how they learn to think. What AI changes is how easy it has become to skip that work.
+This question arises only because it may not be obvious to students that the aim of solving a problem was never the solution itself. Solutions to textbook problems have always been easy to find, in the back of the book or from a classmate. We ask students to solve problems because working through them is how they learn to think. What AI changes is how easy it has become to skip that work.
 
-Take a physics student learning quantum mechanics. Nobody needs one more solution of the Schrödinger equation for one more potential. What matters is what the student learns on the way: how to set up a physical problem, recognize the relevant assumptions, choose the right mathematical methods, handle boundary conditions, and understand what a solution actually means. If AI hands over the final expression immediately, the student gets the right answer and misses the whole point of the exercise.
+Take a physics student learning quantum mechanics. The solutions of the Schrödinger equation for the standard textbook potentials are already available. What matters is what the student learns on the way: how to set up a physical problem, recognize the relevant assumptions, choose the right mathematical methods, handle boundary conditions, and understand what a solution actually means. If AI hands over the final expression immediately, the student gets the right answer and misses the whole point of the exercise.
 
 The same is true for programming. A student who asks AI to write a simulation may end up with a working program without understanding numerical stability, discretization errors, or the physical approximations behind it. They have a result, but not the knowledge needed to judge whether to trust it.
 
 This is not a small problem. It goes to the heart of what education is for.
 
-I am not an expert, and I cannot solve this at a glance. From my own experience, I can only suggest that we change the way we motivate students. Instead of only asking them to solve problems, we should help them see why a problem is interesting in the first place. We should teach them to recognize important questions, appreciate the physical meaning of mathematical structures, and develop the curiosity to explore things that do not yet have answers. A student who understands why a problem matters may still want to learn how to solve it, even when a machine could give them the solution.
+I am not an expert in education, and I do not claim to be. My aim is simply to raise the question. Nonetheless, from my own experience, I would suggest that we change the way we motivate students. Instead of only asking them to solve problems, we should help them see why a problem is interesting in the first place. We should teach them to recognize important questions, appreciate the physical meaning of mathematical structures, and develop the curiosity to explore things that do not yet have answers. A student who understands why a problem matters may still want to learn how to solve it, even when a machine could give them the solution.
 
 ## The field: who controls the tools of science?
 
