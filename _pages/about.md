@@ -55,8 +55,8 @@ latest_posts:
 <img class="welcome-portrait" src="{{ '/assets/img/welcome/portrait.jpg' | relative_url }}" alt="Mohammad Aghaie">
 <h1><b>Mohammad</b> Aghaie</h1>
 <div class="welcome-role">Theoretical physicist · University of Osaka</div>
-<div class="welcome-message"><em>What if the next clue to dark matter is hiding in a phenomenon we already know, one we simply haven't looked at in the right way?</em> This question drives my research. I enjoy uncovering unexpected connections, challenging established ideas, and finding new ways to ask a simple question: where should we look next?</div>
-<button class="welcome-enter" id="welcome-enter" type="button">Enter website &rarr;</button>
+<div class="welcome-message"><em>What if the next clue to dark matter is hiding in a phenomenon we already know, one we simply haven't looked at in the right way?</em></div>
+<button class="welcome-enter" id="welcome-enter" type="button">Enter website</button>
 <div class="welcome-links">
 <a href="mailto:aghaie.sci@osaka-u.ac.jp" title="Email"><i class="fa-solid fa-envelope"></i><span>Email</span></a>
 <a href="https://inspirehep.net/authors/2688235" title="INSPIRE"><i class="ai ai-inspire"></i><span>INSPIRE</span></a>
@@ -90,7 +90,7 @@ I am a theoretical physicist and a postdoctoral researcher in the [particle phys
 
 My research is driven by a simple question: **where should we look for the first clues of physics beyond the Standard Model?** I explore this question across particle physics, cosmology and astrophysics, focusing on phenomena that may open windows onto new fundamental physics. From dark matter and neutrinos to gravitational waves and astrophysical observations, I study how signals, anomalies and precision measurements can reveal departures from the Standard Model and guide us toward the underlying theory.
 
-Before coming to Osaka, I did my [PhD at the University of Pisa](https://phd2.df.unipi.it/en/students/profiles/?smid=2377) with Paolo Panci, with a thesis on [_Signals from the Dark Sector: A Phenomenological Study of ALPs, Ultralight Fields, and Minimal Dark Matter_](https://etd.adm.unipi.it/t/etd-09172025-131512/). Before that, I studied gravitation and cosmology at the University of Tehran. I am currently the PI of a JSPS Grant-in-Aid for Research Activity Start-up on in-medium gauge responses of anomaly-free ALP dark matter.
+Before coming to Osaka, I did my [PhD at the University of Pisa](https://phd2.df.unipi.it/en/students/profiles/?smid=2377) with Paolo Panci, with a thesis on [_Signals from the Dark Sector: A Phenomenological Study of ALPs, Ultralight Fields, and Minimal Dark Matter_](https://etd.adm.unipi.it/t/etd-09172025-131512/). Before that, I studied gravitation and cosmology at the University of Tehran.
 
 **Research interests:** dark matter · axions and ALPs · BSM phenomenology · indirect detection · cosmology · astroparticle theory.
 
