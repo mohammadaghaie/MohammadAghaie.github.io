@@ -88,7 +88,7 @@ latest_posts:
 
 I am a theoretical physicist and a postdoctoral researcher in the [particle physics theory group](https://www-het.phys.sci.osaka-u.ac.jp/mem-e.html) at the University of Osaka, working with Ryosuke Sato.
 
-My research is driven by a simple question: **where should we look for the first clues of physics beyond the Standard Model?** I explore this question across particle physics, cosmology and astrophysics, focusing on phenomena that may open windows onto new fundamental physics. From dark matter and neutrinos to gravitational waves and astrophysical observations, I study how signals, anomalies and precision measurements can reveal departures from the Standard Model and guide us toward the underlying theory.
+My research is driven by a simple question: **where should we look for the next clues of physics beyond the Standard Model?** I explore this question across particle physics, cosmology and astrophysics, focusing on phenomena that may open windows onto new fundamental physics. From dark matter and neutrinos to gravitational waves and astrophysical observations, I study how signals, anomalies and precision measurements can reveal departures from the Standard Model and guide us toward the underlying theory.
 
 Before coming to Osaka, I did my [PhD at the University of Pisa](https://phd2.df.unipi.it/en/students/profiles/?smid=2377) with Paolo Panci, with a thesis on [_Signals from the Dark Sector: A Phenomenological Study of ALPs, Ultralight Fields, and Minimal Dark Matter_](https://etd.adm.unipi.it/t/etd-09172025-131512/). Before that, I studied gravitation and cosmology at the University of Tehran.
 
