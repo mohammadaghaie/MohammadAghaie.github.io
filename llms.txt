@@ -27,4 +27,4 @@ This is his personal academic website. Official profiles: [INSPIRE-HEP](https://
 
 ## Essays
 
-- [The Cartographer and the Explorer: AI and the Future of Human Understanding](https://mohammadaghaie.github.io/blog/2026/cartographer-and-explorer/)
+- [The Cartographer and the Explorer: AI and the Future of Human Understanding](https://mohammadaghaie.github.io/blog/2026/cartographer-and-explorer/), also as a [PDF](https://mohammadaghaie.github.io/assets/pdf/Aghaie_Cartographer_and_Explorer.pdf)

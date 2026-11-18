@@ -9,6 +9,8 @@ thumbnail: assets/img/blog/interpolate_extrapolate.png
 og_image: /assets/img/blog/interpolate_extrapolate.png
 ---
 
+<p><a class="btn btn-sm z-depth-0" role="button" href="{{ '/assets/pdf/Aghaie_Cartographer_and_Explorer.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fa-solid fa-file-pdf"></i> Download as PDF</a></p>
+
 **_Abstract:_** _AI is changing one profession after another, and physics, and science more broadly, are next. In this essay I argue that today's AI is a superb cartographer but not yet an explorer, look at what this means for researchers, students, the control of scientific tools and society, and end with my main worry: that science may soon be produced faster than humans can understand it._
 
 Every revolution has a moment when it stops happening to other people. With AI, that moment is moving through the professions one by one, and it is moving fast.
