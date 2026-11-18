@@ -29,8 +29,6 @@ This is his personal academic website. Official profiles: [INSPIRE-HEP](https://
 
 - [The Cartographer and the Explorer: AI and the Future of Human Understanding](https://mohammadaghaie.github.io/blog/2026/cartographer-and-explorer/), also as a [PDF](https://mohammadaghaie.github.io/assets/pdf/Aghaie_Cartographer_and_Explorer.pdf)
 
-## Persian (فارسی)
+## CV
 
-- [صفحهٔ اصلی](https://mohammadaghaie.github.io/fa/): Persian home page with biography and research interests
-- [مقاله‌ها](https://mohammadaghaie.github.io/fa/papers/), [سخنرانی‌ها](https://mohammadaghaie.github.io/fa/lectures/), [تماس](https://mohammadaghaie.github.io/fa/get-in-touch/)
 - [Full CV (PDF)](https://mohammadaghaie.github.io/assets/pdf/Aghaie_CV.pdf)
