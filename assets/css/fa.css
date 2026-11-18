@@ -57,9 +57,23 @@ html[lang="fa"] .post-content {
   white-space: nowrap;
 }
 .fa-switch .fa-switch-en {
-  margin-inline-start: auto;
+  margin-right: auto; /* in a right-to-left row this pushes the link to the far (left) end */
 }
 .fa-switch .here {
   font-weight: 700;
   color: var(--global-theme-color);
+}
+
+/* the theme aligns page headers to the left and keeps <strong> at normal weight; fix both for Persian */
+html[lang="fa"] .post-header,
+html[lang="fa"] .post-title,
+html[lang="fa"] .post-description {
+  text-align: right;
+}
+html[lang="fa"] .post-content strong,
+html[lang="fa"] .post-content b {
+  font-weight: 700;
+}
+html[lang="fa"] summary {
+  text-align: right;
 }
