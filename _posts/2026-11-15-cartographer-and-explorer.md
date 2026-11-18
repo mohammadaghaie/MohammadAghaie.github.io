@@ -9,7 +9,32 @@ thumbnail: assets/img/blog/interpolate_extrapolate.png
 og_image: /assets/img/blog/interpolate_extrapolate.png
 ---
 
-<p><a class="btn btn-sm z-depth-0" role="button" href="{{ '/assets/pdf/Aghaie_Cartographer_and_Explorer.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fa-solid fa-file-pdf"></i> Download as PDF</a></p>
+<style>
+  .post-materials { float: right; width: 230px; margin: 0.2rem 0 1.2rem 1.6rem; padding: 0.9rem 1rem 0.8rem;
+    border: 1px solid var(--global-divider-color); border-top: 3px solid var(--global-theme-color);
+    border-radius: 6px; background: var(--global-bg-color); font-size: 0.88rem; line-height: 1.45; }
+  .post-materials .pm-title { font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75rem;
+    color: var(--global-theme-color); margin-bottom: 0.55rem; }
+  .post-materials a.pm-item { display: flex; gap: 0.55rem; align-items: baseline; padding: 0.3rem 0; color: var(--global-text-color);
+    border-bottom: 1px dashed var(--global-divider-color); text-decoration: none; }
+  .post-materials a.pm-item:last-of-type { border-bottom: none; }
+  .post-materials a.pm-item:hover { color: var(--global-theme-color); }
+  .post-materials a.pm-item i { color: var(--global-theme-color); width: 1rem; text-align: center; }
+  .post-materials .pm-sub { display: block; font-size: 0.75rem; color: var(--global-text-color-light); }
+  .post-materials .pm-cite { margin-top: 0.6rem; padding-top: 0.55rem; border-top: 1px solid var(--global-divider-color);
+    font-size: 0.75rem; color: var(--global-text-color-light); }
+  @media (max-width: 768px) { .post-materials { float: none; width: auto; margin: 0 0 1.2rem 0; } }
+</style>
+<aside class="post-materials">
+  <div class="pm-title">Materials</div>
+  <a class="pm-item" href="{{ '/assets/pdf/Aghaie_Cartographer_and_Explorer.pdf' | relative_url }}" target="_blank" rel="noopener" download>
+    <i class="fa-solid fa-file-pdf"></i><span>Essay (PDF)<span class="pm-sub">4 pages, with linked references</span></span></a>
+  <a class="pm-item" href="{{ '/assets/img/blog/interpolate_extrapolate_hires.png' | relative_url }}" target="_blank" rel="noopener" download>
+    <i class="fa-solid fa-image"></i><span>Figure 1 (PNG)<span class="pm-sub">High resolution, 2400 &times; 1800</span></span></a>
+  <a class="pm-item" href="#references">
+    <i class="fa-solid fa-list-ol"></i><span>References<span class="pm-sub">Sources cited in the essay</span></span></a>
+  <div class="pm-cite"><b>Cite as:</b> M. Aghaie, &ldquo;The Cartographer and the Explorer: AI and the Future of Human Understanding,&rdquo; mohammadaghaie.github.io (2026).</div>
+</aside>
 
 **_Abstract:_** _AI is changing one profession after another, and physics, and science more broadly, are next. In this essay I argue that today's AI is a superb cartographer but not yet an explorer, look at what this means for researchers, students, the control of scientific tools and society, and end with my main worry: that science may soon be produced faster than humans can understand it._
 
@@ -176,7 +201,7 @@ I am not optimistic that any of this will happen in time. The incentives point t
 
 ---
 
-## References
+## References {#references}
 
 1. <span id="ref-1"></span>OpenAI, "On the Navier–Stokes Millennium Prize Problem," 8 September 2026. [openai.com/index/navier-stokes-solution](https://openai.com/index/navier-stokes-solution/)
 2. <span id="ref-2"></span>K. Kakaes, "AI Has Solved One of Math's &#36;1 Million Millennium Prize Problems," _Quanta Magazine_, 8 September 2026. [quantamagazine.org](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/)
