@@ -5,6 +5,7 @@ cv:
   location: Osaka, Japan
   summary: >-
     My research is driven by a simple question: where should we look for the next clues of physics beyond the Standard Model? I explore it across particle physics, cosmology and astrophysics, from dark matter and neutrinos to gravitational waves and astrophysical observations.
+    <br><a href="/assets/pdf/Aghaie_CV.pdf" target="_blank" rel="noopener" style="display: inline-block; margin-top: 0.8rem; padding: 0.35rem 0.9rem; border: 1px solid var(--global-theme-color); border-radius: 6px; font-weight: 500;"><i class="fa-solid fa-file-pdf"></i> Download the full CV (PDF)</a>
     <style>.card ul.list-group li.list-group-item { list-style: none; }</style>
 
   sections:
