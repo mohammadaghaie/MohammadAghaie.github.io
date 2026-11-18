@@ -37,7 +37,7 @@ nav: false
   <a href="{{ '/fa/papers/' | relative_url }}">مقاله‌ها</a>
   <a class="here" href="{{ '/fa/lectures/' | relative_url }}">سخنرانی‌ها</a>
   <a href="{{ '/fa/get-in-touch/' | relative_url }}">تماس</a>
-  <a class="fa-switch-en" href="{{ '/talks/' | relative_url }}" lang="en" dir="ltr">English version</a>
+  <a class="fa-switch-en" href="{{ '/talks/' | relative_url }}" lang="en"><span dir="ltr">English version</span></a>
 </nav>
 
 {% assign talks = site.data.talks %}

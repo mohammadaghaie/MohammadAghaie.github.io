@@ -23,7 +23,7 @@ nav: false
   <a href="{{ '/fa/papers/' | relative_url }}">مقاله‌ها</a>
   <a href="{{ '/fa/lectures/' | relative_url }}">سخنرانی‌ها</a>
   <a href="{{ '/fa/get-in-touch/' | relative_url }}">تماس</a>
-  <a class="fa-switch-en" href="{{ '/' | relative_url }}" lang="en" dir="ltr">English version</a>
+  <a class="fa-switch-en" href="{{ '/' | relative_url }}" lang="en"><span dir="ltr">English version</span></a>
 </nav>
 
 <div class="fa-photo"><img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="محمد آقایی"></div>

@@ -14,7 +14,7 @@ nav: false
   <a class="here" href="{{ '/fa/papers/' | relative_url }}">مقاله‌ها</a>
   <a href="{{ '/fa/lectures/' | relative_url }}">سخنرانی‌ها</a>
   <a href="{{ '/fa/get-in-touch/' | relative_url }}">تماس</a>
-  <a class="fa-switch-en" href="{{ '/publications/' | relative_url }}" lang="en" dir="ltr">English version</a>
+  <a class="fa-switch-en" href="{{ '/publications/' | relative_url }}" lang="en"><span dir="ltr">English version</span></a>
 </nav>
 
 عنوان‌ها و چکیده‌های مقاله‌ها به زبان اصلی (انگلیسی) آمده‌اند. با دکمهٔ «Discuss» در زیر هر مقاله می‌توانید به صفحهٔ آن مقاله بروید و نظر یا واکنش خود را بنویسید؛ نوشتن به فارسی هم آزاد است.
